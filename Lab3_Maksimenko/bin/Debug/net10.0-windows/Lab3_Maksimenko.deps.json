@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab3_Maksimenko/1.0.0": {
+        "runtime": {
+          "Lab3_Maksimenko.dll": {}
+        },
+        "resources": {
+          "cs/Lab3_Maksimenko.resources.dll": {
+            "locale": "cs"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3_Maksimenko/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
